@@ -25,16 +25,17 @@ Recomendamos utilizar o nvm para facilitar a instalação e o gerenciamento das 
 Siga os passos abaixo para executar o projeto localmente:
 
 # 1. Clone o repositório
-git clone https://github.com/alexanderpoliser/poliserdev-food-website
+- git clone https://github.com/alexanderpoliser/poliserdev-food-website
 
 # 2. Acesse o diretório do projeto
-cd poliserdev-food-website
+- cd poliserdev-food-website
 
 # 3. Instale as dependências
-npm install
+- npm install
 
 # 4. Inicie o servidor de desenvolvimento
-npm run dev
+- npm run dev
+
 O projeto estará disponível em http://localhost:8080 por padrão.
 
 🛠️ Tecnologias utilizadas
@@ -59,16 +60,17 @@ We recommend using nvm to simplify installation and version management.
 Follow the steps below to run the project locally:
 
 # 1. Clone the repository
-git clone https://github.com/alexanderpoliser/poliserdev-food-website
+- git clone https://github.com/alexanderpoliser/poliserdev-food-website
 
 # 2. Navigate to the project directory
-cd poliserdev-food-website
+- cd poliserdev-food-website
 
 # 3. Install the dependencies
-npm install
+- npm install
 
 # 4. Start the development server
-npm run dev
+- npm run dev
+
 The project will be available at http://localhost:8080 by default.
 
 🛠️ Technologies used
