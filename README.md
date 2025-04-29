@@ -1,5 +1,5 @@
-PoliserDev Food Website
-📑 Sumário | Table of Contents
+# PoliserDev Food Website
+## 📑 Sumário | Table of Contents
 🇧🇷 Português (PT-BR)
 
 Pré-requisitos
@@ -24,9 +24,6 @@ Recomendamos utilizar o nvm para facilitar a instalação e o gerenciamento das 
 🚀 Como rodar o projeto
 Siga os passos abaixo para executar o projeto localmente:
 
-bash
-Copy
-Edit
 # 1. Clone o repositório
 git clone https://github.com/alexanderpoliser/poliserdev-food-website
 
@@ -38,7 +35,7 @@ npm install
 
 # 4. Inicie o servidor de desenvolvimento
 npm run dev
-O projeto estará disponível em http://localhost:5173 por padrão.
+O projeto estará disponível em http://localhost:8080 por padrão.
 
 🛠️ Tecnologias utilizadas
 Este projeto foi desenvolvido utilizando:
@@ -61,9 +58,6 @@ We recommend using nvm to simplify installation and version management.
 🚀 How to run the project
 Follow the steps below to run the project locally:
 
-bash
-Copy
-Edit
 # 1. Clone the repository
 git clone https://github.com/alexanderpoliser/poliserdev-food-website
 
@@ -75,7 +69,7 @@ npm install
 
 # 4. Start the development server
 npm run dev
-The project will be available at http://localhost:5173 by default.
+The project will be available at http://localhost:8080 by default.
 
 🛠️ Technologies used
 This project was built using:
